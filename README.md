@@ -1,4 +1,5 @@
 # targilons
+repository link: https://github.com/michal820/targilons.git
 
 1. JIRA- added tasks to backlog
 <img width="1430" alt="1  JIRA- added tasks to backlog" src="https://github.com/michal820/targilons/assets/73175572/937bdaf4-88a6-4491-9fe2-8ba542e5f3a1">
